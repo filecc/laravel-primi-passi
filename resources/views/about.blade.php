@@ -31,7 +31,7 @@
         </nav>
     </header>
     <main class="p-2">
-        <h1>Benvenuto nella Home</h1>
+        <h1>Benvenuto nella pagina About</h1>
     </main>
 
 </body>
